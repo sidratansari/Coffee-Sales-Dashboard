@@ -143,6 +143,7 @@ Enable management to make informed decisions regarding pricing, staffing, invent
 
 6. Screenshots / Demo
 Dashboard Preview
+https://github.com/sidratansari/Coffee-Sales-Dashboard/blob/main/Coffee%20Sales%20Dashboard.png
 
 Dashboard Highlights:
 Interactive city-level filtering.
